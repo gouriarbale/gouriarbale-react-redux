@@ -1,0 +1,12 @@
+{
+  "serverURL": "https://aveosoft-react-assignment.herokuapp.com",
+  "api": {
+    "product": {
+      "getSingle": "/products/",
+      "getAll": "/products"
+    },
+    "categories": {
+      "getAll": "/categories"
+    }
+  }
+}
